@@ -46,3 +46,7 @@ jarvis-ai-assistant/ │── jarvis.py            # Main Jarvis logic │─�
 1. Clone the repository  
 ```bash
 git clone https://github.com/dilip76673-tech/jarvis-ai-assistant.git
+
+👨‍💻 Author
+Dilip kumar
+B.Tech CSE Student
